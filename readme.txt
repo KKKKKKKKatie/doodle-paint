@@ -1,4 +1,4 @@
-It is a simple doodle program. 
+It is a doodle program. 
 I implement it with MVC. We have three views in this program. 
 The first is color palette(View Class). It shows on the left of 
 the window. When we choose a color, we have a current color button 
